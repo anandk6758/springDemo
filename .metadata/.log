@@ -1,0 +1,22 @@
+!SESSION 2018-04-07 18:48:17.830 -----------------------------------------------
+eclipse.buildId=4.7.3.M20180301-0715
+java.version=10
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/anandtiwari/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -keyring /Users/anandtiwari/.eclipse_keyring
+
+!ENTRY org.eclipse.core.net 1 0 2018-04-07 18:48:58.270
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-07 18:49:48.720
+!MESSAGE Could not determine source level, using default 1.5
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-07 18:49:48.731
+!MESSAGE Could not determine target level, using default 1.5
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-07 19:01:20.359
+!MESSAGE Could not determine source level, using default 1.5
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-04-07 19:01:20.360
+!MESSAGE Could not determine target level, using default 1.5
