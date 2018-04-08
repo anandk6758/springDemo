@@ -26,7 +26,6 @@ public class Book {
         this.description = description;
     }
 
-
     public Book(int id, String title, String isbn, String description, Set<Author> authors){
         this.title = title;
         this.isbn = isbn;
