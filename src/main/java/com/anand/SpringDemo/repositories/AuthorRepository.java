@@ -1,4 +1,4 @@
-package com.anand.SpringDemo.demo.repositories;
+package com.anand.SpringDemo.repositories;
 
 import com.anand.SpringDemo.demo.Author;
 import org.springframework.data.repository.CrudRepository;

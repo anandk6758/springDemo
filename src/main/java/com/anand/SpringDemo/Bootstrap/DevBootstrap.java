@@ -2,8 +2,8 @@ package com.anand.SpringDemo.Bootstrap;
 
 import com.anand.SpringDemo.demo.Author;
 import com.anand.SpringDemo.demo.Book;
-import com.anand.SpringDemo.demo.repositories.AuthorRepository;
-import com.anand.SpringDemo.demo.repositories.BookRepository;
+import com.anand.SpringDemo.repositories.AuthorRepository;
+import com.anand.SpringDemo.repositories.BookRepository;
 import org.springframework.context.ApplicationListener;
 import org.springframework.context.event.ContextRefreshedEvent;
 import org.springframework.stereotype.Component;
